@@ -45,8 +45,8 @@ body {
 .form-control, 
 textarea {
   max-width: 400px;
-  background-color: #fff7f7;
-  color: #fff;
+  background-color: #ffffff;
+  color: #000000;
   letter-spacing: 1px;
 }
 
